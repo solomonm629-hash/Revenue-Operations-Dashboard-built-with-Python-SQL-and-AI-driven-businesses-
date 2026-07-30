@@ -1,25 +1,32 @@
-# Revenue Operations Dashboard
+# 📊 Revenue Operations Dashboard
 
 ## Overview
-This project demonstrates a Revenue Operations dashboard built using sample SaaS business data.
+This project demonstrates a Revenue Operations Dashboard built using realistic sample SaaS business data.
 
-## Features
-- Monthly Recurring Revenue (MRR) tracking
-- Revenue growth analysis
-- Customer acquisition trends
-- Customer churn analysis
-- Revenue forecasting
-- KPI dashboard
+## Project Goals
+- Analyze monthly revenue trends
+- Monitor customer growth
+- Track churn rate
+- Measure business performance using KPIs
+- Demonstrate Python and SQL data analysis skills
 
-## Tools Used
+## Files
+- README.md – Project documentation
+- revenue_data.csv – Sample SaaS revenue dataset
+- analysis.py – Python analysis script
+- queries.sql – SQL queries for business insights
+
+## Tools
 - Python
 - SQL
 - GitHub
-- Google Looker Studio
-- AI-assisted analysis
 
-## Purpose
-This project demonstrates analytical thinking, business intelligence, and data visualization skills using realistic sample data.
+## Sample KPIs
+- Monthly Revenue
+- Customer Growth
+- Customer Churn
+- Operating Expenses
+- Revenue Trends
 
 ## Author
 Solomon Masango
